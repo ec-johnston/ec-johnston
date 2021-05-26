@@ -1,3 +1,3 @@
 # About
 
-I am a PhD candidate in Earth Systems Science at Stanford University.
+I am a PhD candidate in Earth System Science at Stanford University.
